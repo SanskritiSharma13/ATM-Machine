@@ -2,7 +2,7 @@ class ATM
   # constructor(megicaldunder method)
   def __init__(self)
     # for making  datamethod private we can use __ in starting of datamethod 's name (encapsulation)
-    self.__pin = 
+    self.__pin = " "
     self.__balance = 0
     self.menu()
 
